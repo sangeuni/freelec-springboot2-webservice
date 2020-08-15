@@ -1,4 +1,4 @@
-package com.buyability.springboot;
+package com.buyability.springboot.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
