@@ -51,7 +51,7 @@ public class PostsRepositoryTest {
         // given
         LocalDateTime now = LocalDateTime.of(2019, 6, 4, 0, 0, 0);
         postsRepository.save(Posts.builder()
-                .title("titile")
+                .title("title")
                 .content("content")
                 .author("author")
                 .build());
